@@ -1,4 +1,4 @@
-## Project Title | Bollywood Movie Analytics Dashboard
+# Project Title | Bollywood Movie Analytics Dashboard
 
 ## Project Overview
 
